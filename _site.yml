@@ -46,6 +46,7 @@ navbar:
     href: https://www.instagram.com/rdaycolombia/
 output:
   html_document:
+    css: my_css.css
     theme: flatly
     includes:
       after_body: footer.html
