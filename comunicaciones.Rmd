@@ -1,0 +1,7 @@
+---
+title: "Programa de comunicaciones"
+---
+
+Abajo se encuentra el programa de las comunicaciones.
+
+<img src="imagenes/prog_comunicaciones.png" alt="Programa">

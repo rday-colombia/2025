@@ -1,0 +1,18 @@
+---
+title: "Inscripciones"
+---
+
+Para realizar la inscripción al evento se deben seguir dos pasos:
+
+
+1.1. Visitar [este enlace](https://www.udea.edu.co/wps/portal/udea/web/inicio/go?goid=portafolioext&q=25645&events=true).
+
+1.2. Dar clic en el botón **Inscribirme** y seguir todos los pasos. Abajo una figura ilustrativa de la ubicación del botón de inscripción.
+
+<center>
+<img src="imagenes/guia_inscripcion.png" alt="Edif_Ext_UdeA" style="max-width: 35%;">
+</center>
+
+La inscripción tiene un valor de $100.000. Para grupos de cuatro o más personas de una misma organización, el valor de inscripción es de $90.000 para cada persona (descuento del 10%).
+
+Cualquier inquietud no dude en escribirnos a rdaycolombia@gmail.com

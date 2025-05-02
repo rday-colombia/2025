@@ -1,0 +1,15 @@
+---
+title: "Medellín"
+---
+
+Para conocer sobre Medellín se recomienda visitar [https://medellin.travel](https://medellin.travel)
+
+<br/>
+
+<center>
+<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/k-OD3KaVHSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<br/>
+
+La Alcaldía de Medellín tiene una página web con información útil para los turistas. Para consultar la página visite el enlace  [https://www.medellin.gov.co/es/turistas/](https://www.medellin.gov.co/es/turistas/).
