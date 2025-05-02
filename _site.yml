@@ -3,16 +3,16 @@ output_dir: "."
 navbar:
   title: "Inicio"
   left:
-    - text: "Programa"
-      menu:
-      - text: General
-        icon: fa-calendar
-        href: programa.html
-      - text: Comunicaciones
-        icon: fa-calendar-check-o
-        href: comunicaciones.html
+    # - text: "Programa"
+    #   menu:
+    #   - text: General
+    #     icon: fa-calendar
+    #     href: programa.html
+    #   - text: Comunicaciones
+    #     icon: fa-calendar-check-o
+    #     href: comunicaciones.html
     - text: "Conferencistas"
-      href: conferencistas.html
+      href: conferencistas01.html
     - text: "Tutoriales"
       href: tutoriales.html
     - text: "Lugar"
@@ -25,8 +25,8 @@ navbar:
         href: lugar.html
     - text: "Fechas"
       href: fechas.html
-    - text: "FAQ"
-      href: respuestas.html
+    # - text: "FAQ"
+    #   href: respuestas.html
 #    - text: "Trabajos"
 #      href: trabajos.html
 #    - text: "Inscripciones"
