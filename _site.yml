@@ -12,9 +12,9 @@ navbar:
     #     icon: fa-calendar-check-o
     #     href: comunicaciones.html
     - text: "Conferencistas"
-      href: conferencistas01.html
+      href: under_construction.html
     - text: "Tutoriales"
-      href: tutoriales.html
+      href: under_construction.html
     - text: "Lugar"
       menu:
       - text: Medellín

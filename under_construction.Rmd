@@ -1,0 +1,10 @@
+---
+title: ""
+---
+
+Por favor visita luego esta página, estamos trabajando en el contenido.
+
+<center>
+<img src="imagenes/construccion.jpg" width="450" height="300" alt="">
+</center>
+
