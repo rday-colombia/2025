@@ -1,0 +1,10 @@
+---
+title: "Inscripciones"
+---
+<center>
+<span style="background-color: #D7FAC8">
+Las inscripciones han finalizado, llegamos al número máximo de inscritos. 
+Gracias.
+</span>
+</center>
+
