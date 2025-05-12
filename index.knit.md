@@ -1,0 +1,65 @@
+---
+title: "R Day - Tercer encuentro nacional de usuarios de R"
+---
+
+<center>
+<img border="0" src="imagenes/Hexalogo.png" width="210" height="210">
+</center>
+
+<h2> </h2>
+
+<img src="imagenes/medellin_esp.png" alt="Foto grupal">
+
+<font size="4">
+<p align="justify">R Day es un evento que ha tenido un impacto positivo en la comunidad científica y empresarial debido a la versatilidad del lenguaje de programación R para estadística y ciencia de datos. 
+
+El R Day se ha realizado dos veces en Medellín ([2019](https://rday-colombia.github.io/2019/) y [2023](https://rday-colombia.github.io/2023/)) y en este año se realizará por tercera vez en Medellín de forma **presencial** el 14 de noviembre del 2025. Con el R Day queremos integrar la comunidad de usuarios de R en la ciudad de Medellín y llamar la atención de quienes aún no lo conocen.</p>
+</font>
+
+<center>
+<img src="imagenes/foto_grupal_2019_2023.png" style="max-width: 80%;" alt="Foto grupal">
+</center>
+
+<br/>
+<br/>
+
+<center>
+
+<h1> Organizan </h1>
+
+<img src="imagenes/auxiliar.png" 
+     style="max-width: 80%;" />
+     
+<br>
+<br>
+<br>
+     
+<h1> Apoyan </h1>
+
+<img src="imagenes/tu_logo_aqui_1.png" 
+     style="max-width: 50%;" />
+     
+<br>
+     
+<img src="imagenes/tu_logo_aqui_2.png" 
+     style="max-width: 40%;" />
+     
+<br>
+
+<img src="imagenes/tu_logo_aqui_3.png" 
+     style="max-width: 40%;" />
+     
+</center>
+
+<br>
+<br>
+<br>
+
+<center>
+Mapa de visitas al sitio.
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=383&t=n&d=Y68NzRsCOlDuM4dQFKq32_gK6t61-HhKguLrPcQb8bI"></script>
+</center>
+
+
+
+

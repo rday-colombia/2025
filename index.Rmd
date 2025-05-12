@@ -13,7 +13,7 @@ title: "R Day - Tercer encuentro nacional de usuarios de R"
 <font size="4">
 <p align="justify">R Day es un evento que ha tenido un impacto positivo en la comunidad científica y empresarial debido a la versatilidad del lenguaje de programación R para estadística y ciencia de datos. 
 
-El R Day se ha realizado dos veces en Medellín ([2019](https://rday-colombia.github.io/2019/) y [2023](https://rday-colombia.github.io/2023/)) y en este año se realizará por tercera vez en Medellín de forma **presencial** el 16 de noviembre del 2025. Con el R Day queremos integrar la comunidad de usuarios de R en la ciudad de Medellín y llamar la atención de quienes aún no lo conocen.</p>
+El R Day se ha realizado dos veces en Medellín ([2019](https://rday-colombia.github.io/2019/) y [2023](https://rday-colombia.github.io/2023/)) y en este año se realizará por tercera vez en Medellín de forma **presencial** el 14 de noviembre del 2025. Con el R Day queremos integrar la comunidad de usuarios de R en la ciudad de Medellín y llamar la atención de quienes aún no lo conocen.</p>
 </font>
 
 <center>
