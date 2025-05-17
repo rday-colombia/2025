@@ -12,7 +12,7 @@ navbar:
     #     icon: fa-calendar-check-o
     #     href: comunicaciones.html
     - text: "Conferencistas"
-      href: under_construction.html
+      href: conferencistas01.html
     - text: "Tutoriales"
       href: under_construction.html
     - text: "Lugar"
