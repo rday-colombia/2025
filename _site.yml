@@ -14,7 +14,7 @@ navbar:
     - text: "Conferencistas"
       href: conferencistas01.html
     - text: "Tutoriales"
-      href: under_construction.html
+      href: tutoriales.html
     - text: "Lugar"
       menu:
       - text: Medellín

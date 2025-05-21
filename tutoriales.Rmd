@@ -2,4 +2,8 @@
 title: "Tutoriales"
 ---
 
-<img src="imagenes/Tutoriales.png" alt="Programa">
+| N°   |  Tutorial  |  Tutor   |  Organización            |
+|------|------------|----------|--------------------------|
+|1|Manejo de datos espaciales|David Arango Londoño|Profesor Asistente, Departamento de Ciencias Naturales y Matemáticas, Pontificia Universidad Javeriana|
+|2|xxx|xxx|xxx|
+
