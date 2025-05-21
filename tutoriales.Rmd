@@ -5,5 +5,5 @@ title: "Tutoriales"
 | N°   |  Tutorial  |  Tutor   |  Organización            |
 |------|------------|----------|--------------------------|
 |1|Manejo de datos espaciales|David Arango Londoño|Profesor Asistente, Departamento de Ciencias Naturales y Matemáticas, Pontificia Universidad Javeriana|
-|2|xxx|xxx|xxx|
+|2|Por confirmar|Luis Gabriel González|Profesor Asociado, Departamento de Producción Animal, UNAL Medellín|
 
