@@ -6,4 +6,5 @@ title: "Tutoriales"
 |------|------------|----------|--------------------------|
 |1|Manejo de datos espaciales|David Arango Londoño|Profesor Asistente, Departamento de Ciencias Naturales y Matemáticas, Pontificia Universidad Javeriana|
 |2|Por confirmar|Luis Gabriel González|Profesor Asociado, Departamento de Producción Animal, UNAL Medellín|
-
+|3|Creación de paquetes en R|David E. Rodriguez, Organización|Docente, departamento de finanzas ITM|
+|4|Análisis de series de tiempo a través de los paquetes actfts y citmre|Sergio Andrés Sierra|Docente, Departamento de Finanzas ITM|
