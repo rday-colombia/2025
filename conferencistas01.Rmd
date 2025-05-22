@@ -23,6 +23,16 @@ Profesora Universidade Federal Rio Grande do Norte.
 <img border="0" src="imagenes/flag_brasil.jpeg" width="25" height="25">
 </center>
 
+<br/>
+<br/>
+
+<center>
+<img src="imagenes/fotos_conferencistas/Fernando.png" width="300" height="300" alt="">  
+[Fernando Marmolejo Ramos](https://www.flinders.edu.au/people/fernando.marmolejoramos)  
+Profesor Flinders University.  
+<a href="https://x.com/marmolejo_ramos"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://sites.google.com/view/fernando-marmolejo-ramos/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a> 
+<img border="0" src="imagenes/flag_australia.jpeg" width="25" height="25">
+</center>
 
 
 <br/>
