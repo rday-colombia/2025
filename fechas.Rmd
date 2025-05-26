@@ -10,20 +10,17 @@ title: "Fechas importantes"
 
 | Actividad                | Fecha      |
 |--------------------------|------------|
-| Pre-inscripción          | xx/xx/2025 |
-| Inicio de inscripciones  | xx/xx/2025 |
-| Fin de las inscripciones | xx/xx/2025 |
+| Inicio de inscripciones  | 02/06/2025 |
+| Fin de las inscripciones | 07/11/2025 |
 | R Day                    | 14/11/2025 |
-
 
 <br>
 
 ## Para someter los trabajos
 
-| Actividad                           | Fecha             |
-|-------------------------------------|-------------------|
-| Inicio del sometimiento de trabajos | xx/xx/2025        |
-| Fin del sometimiento de trabajos    | xx/xx/2025        |
-| Notificación de aceptación          | xx/xx/2025        |
-| Envío de resumen extendido          | xx/xx/2025        |
-
+| Actividad                           | Fecha       |
+|-------------------------------------|-------------|
+| Inicio del sometimiento de trabajos | 02/06/2025  |
+| Fin del sometimiento de trabajos    | 22/08/2025  |
+| Notificación de aceptación          | 05/09/2025  |
+| Envío de artículo completo          | 17/10/2025  |
