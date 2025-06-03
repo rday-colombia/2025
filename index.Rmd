@@ -6,7 +6,15 @@ title: "R Day - Tercer encuentro nacional de usuarios de R"
 <img border="0" src="imagenes/Hexalogo.png" width="210" height="210">
 </center>
 
-<h2> </h2>
+<br/>
+
+Para visitar nuestra página en inglés de clic en el siguiente enlace:
+
+[https://rday-colombia.github.io/2025_eng/](https://rday-colombia.github.io/2025_eng/)
+
+<img border="0" src="imagenes/eng_spa.jpeg" width="210" height="60">
+
+<br/>
 
 <img src="imagenes/medellin_esp.png" alt="Foto grupal">
 
