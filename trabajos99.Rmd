@@ -1,0 +1,13 @@
+---
+title: "Memorias"
+---
+
+Para crear las Memorias del evento R Day 2023 se le solicita subir a la plataforma CMT el resumen pdf de 4 páginas generado a partir de [esta plantilla](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day.zip). El resumen final debe tener [este formato](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf).
+
+### Pasos
+Para subir el resumen de 4 páginas se utilizará la herramienta CMT siguiendo los siguientes pasos:
+
+1. Visitar [este enlace](https://cmt3.research.microsoft.com/RDay2023){target="_blank"} para ingresar al sistema de sometimiento de trabajos.
+1. Dar clic en la opción __Camera ready submission__.
+1. Subir el pdf.
+

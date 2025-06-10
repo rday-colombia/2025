@@ -1,13 +1,19 @@
 ---
-title: "Memorias"
+title: "Sometimiento de trabajos"
 ---
 
-Para crear las Memorias del evento R Day 2023 se le solicita subir a la plataforma CMT el resumen pdf de 4 páginas generado a partir de [esta plantilla](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day.zip). El resumen final debe tener [este formato](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf).
+Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaje de programación __R__. La forma de presentar los trabajos será por medio de comunicaciones o pósters.
 
-### Pasos
-Para subir el resumen de 4 páginas se utilizará la herramienta CMT siguiendo los siguientes pasos:
+## Pasos
+El sometimiento de trabajos se realizará por medio de la herramienta CMT. A continuación los pasos para someter un trabajo.
 
-1. Visitar [este enlace](https://cmt3.research.microsoft.com/RDay2023){target="_blank"} para ingresar al sistema de sometimiento de trabajos.
-1. Dar clic en la opción __Camera ready submission__.
-1. Subir el pdf.
+1. Visitar [este enlace](https://cmt3.research.microsoft.com/User/Login){target="_blank"} y crear una cuenta o membresía.
+1. Visitar [este enlace](https://cmt3.research.microsoft.com/RDay2025){target="_blank"} para ingresar al sistema de sometimiento de trabajos.
+1. Dar clic en el botón __Create new submission__.
+1. Ingresar el título, el resumen de <span style="color: red;">1000 caracteres</span> y los autores.
+1. Elegir si es comunicación o póster.
+1. Oprimir el botón __Submit__ para someter su trabajo.
+
+Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentran [en este enlace](fechas.html).
+
 
