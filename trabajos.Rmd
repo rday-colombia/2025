@@ -16,4 +16,7 @@ El sometimiento de trabajos se realizará por medio de la herramienta CMT. A con
 
 Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentran [en este enlace](fechas.html).
 
+<br/>
+<br/>
 
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
