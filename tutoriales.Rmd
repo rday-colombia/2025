@@ -10,3 +10,5 @@ title: "Tutoriales"
 |4|Análisis de series de tiempo a través de los paquetes `actfts` y `citmre`|Sergio Andrés Sierra|Docente, Departamento de Finanzas ITM|
 |5|Ciencia de Datos sin Fronteras: R + AWS para Analizar en la Nube|Luis Eduardo Vahos Hernández|Docente, Facultad de Ingenierías ITM|
 |6|Análisis de Sentimientos en R|Nini Johana Marín Rodríguez|Docente, Facultad de Ingenierías UdeM|
+|7|Storytelling with Quarto|Olga Usuga Manco|Docente, Facultad de Ingeniería UdeA|
+|8|Data science in production|Freddy Hernández|Docente, Facultad de Ciencias, UNAL Medellín|
