@@ -7,8 +7,9 @@ Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaj
 ## Pasos
 El sometimiento de trabajos se realizará por medio de la herramienta CMT. A continuación los pasos para someter un trabajo.
 
-1. Visitar [este enlace](https://cmt3.research.microsoft.com/User/Login){target="_blank"} y crear una cuenta o membresía.
-1. Visitar [este enlace](https://cmt3.research.microsoft.com/RDay2025){target="_blank"} para ingresar al sistema de sometimiento de trabajos.
+1. Visitar [este enlace](https://cmt3.research.microsoft.com/User/Login){target="_blank"} para crear una cuenta en CMT. Si ya tiene una cuenta en CMT, continue con el paso siguiente.
+1. Abra su cuenta de CMT creada en el paso anterior.
+1. Visitar [este enlace](https://cmt3.research.microsoft.com/RDay2025){target="_blank"} para ingresar al sistema de sometimiento de trabajos del R Day en CMT.
 1. Dar clic en el botón __Create new submission__.
 1. Ingresar el título, el resumen de <span style="color: red;">1000 caracteres</span> y los autores.
 1. Elegir si es comunicación o póster.
