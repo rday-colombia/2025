@@ -34,5 +34,16 @@ Profesor Flinders University.
 <img border="0" src="imagenes/flag_australia.jpeg" width="25" height="25">
 </center>
 
+<br/>
+<br/>
+
+<center>
+<img src="imagenes/fotos_conferencistas/luis_mujica.png" width="300" height="300" alt="">  
+[Luis Eduardo Mujica Delgado](https://futur.upc.edu/LuisEduardoMujicaDelgado)  
+Profesor Universitat Politècnica de Catalunya.  
+<a href="https://x.com/luis_edo_mujica"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://futur.upc.edu/LuisEduardoMujicaDelgado"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a> 
+<img border="0" src="imagenes/flag_espana.png" width="25" height="25">
+</center>
+
 
 <br/>
