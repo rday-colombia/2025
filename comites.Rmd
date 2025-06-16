@@ -5,20 +5,21 @@ title: "Comités"
 <br/>
 
 ## Comité organizador
-- [Romario Ademir Conto López](https://www.itm.edu.co/), Institución Universitaria ITM.
-- [Biviana Marcela Suárez Sierra](https://portalqa.omega.eafit.edu.co/profesores/biviana-marcela-suarez-sierra), Universidad EAFIT.
-- [Olga Cecilia Usuga Manco](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia.
-- [Carmen Elena Patiño Rodríguez](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia.
-- [Freddy Hernández Barajas](https://fhernanb.github.io/), Universidad Nacional de Colombia, sede Medellín.
+- [Romario Ademir Conto López](https://www.itm.edu.co/), Institución Universitaria ITM (Colombia).
+- [Biviana Marcela Suárez Sierra](https://portalqa.omega.eafit.edu.co/profesores/biviana-marcela-suarez-sierra), Universidad EAFIT (Colombia).
+- [Olga Cecilia Usuga Manco](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia (Colombia).
+- [Carmen Elena Patiño Rodríguez](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia (Colombia).
+- [Freddy Hernández Barajas](https://fhernanb.github.io/), Universidad Nacional de Colombia, sede Medellín (Colombia).
 
 <br/>
 
 ## Comité científico
-- [Romario Ademir Conto López](https://www.itm.edu.co/), Institución Universitaria ITM.
-- [Biviana Marcela Suárez Sierra](https://portalqa.omega.eafit.edu.co/profesores/biviana-marcela-suarez-sierra), Universidad EAFIT.
-- [Olga Cecilia Usuga Manco](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia.
-- [Carmen Elena Patiño Rodríguez](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia.
-- [Freddy Hernández Barajas](https://fhernanb.github.io/), Universidad Nacional de Colombia, sede Medellín.
+- [Romario Ademir Conto López](https://www.itm.edu.co/), Institución Universitaria ITM (Colombia).
+- [Biviana Marcela Suárez Sierra](https://portalqa.omega.eafit.edu.co/profesores/biviana-marcela-suarez-sierra), Universidad EAFIT (Colombia).
+- [Olga Cecilia Usuga Manco](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia (Colombia).
+- [Carmen Elena Patiño Rodríguez](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia (Colombia).
+- [Benjamín Baumer](https://www.smith.edu/people/ben-baumer), Smith College (USA).
+- [Freddy Hernández Barajas](https://fhernanb.github.io/), Universidad Nacional de Colombia, sede Medellín (Colombia).
 
 <br/>
 
