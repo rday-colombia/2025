@@ -19,6 +19,21 @@ title: "Comités"
 - [Olga Cecilia Usuga Manco](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia (Colombia).
 - [Carmen Elena Patiño Rodríguez](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia (Colombia).
 - [Benjamín Baumer](https://www.smith.edu/people/ben-baumer), Smith College (USA).
+- [Diana Marcela Pérez](https://www.smith.edu/people/ben-baumer), Universidad del País Vasco (España).
+- [María Valentina Clavijo Mesa](https://www.meetup.com/es/rladies-medellin/), Politécnico de Milán (Italia).
+- [Olga Cecilia Usuga Manco](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia (Colombia).
+- [Leticia Ramírez Ramírez](https://www.cimat.mx/), CIMAT (Mexico) 
+- [Marco Scavino](https://udelar.edu.uy/portal/), Universidad de la Republica Uruguay (Uruguay).
+- [Yandira Cuvero](https://webhistorico.epn.edu.ec/), Escuela Politécnica Nacional de Ecuador (Ecuador).
+- [Eniuce Menezes](https://www.uem.br/), Universidade Estadual de Maringá (Brasil).
+- [Yasmine Abdelfattah](https://www.upei.ca/), University of Prince Edward Island (Canadá).
+- [Sergio Barajas](https://www.cimat.mx/), CIMAT (México).
+- [Jessica María Rojas](https://www.itm.edu.co/), ITM, (Colombia).
+- [Carlos Alberto Taimal](), Universidad EAFIT (Colombia).
+- [Isabel Cristina García Arboleda](https://www.javerianacali.edu.co/), Pontificia Universidad Javeriana Cali (Colombia) .
+- [Diana Carolina Moreno](https://urosario.edu.co/), Universidad del Rosario (Colombia).
+- [Wilmer Pineda Rios](https://usantotomas.edu.co/inicio), Universidad Santo Tomás (Colombia).
+- [Andrés Sebastián Rios](https://uis.edu.co/uis-bucaramanga-es/), UIS (Colombia).
 - [Freddy Hernández Barajas](https://fhernanb.github.io/), Universidad Nacional de Colombia, sede Medellín (Colombia).
 
 <br/>
