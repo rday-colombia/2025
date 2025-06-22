@@ -33,6 +33,9 @@ title: "Comités"
 - [Diana Carolina Moreno](https://urosario.edu.co/), Universidad del Rosario (Colombia).
 - [Wilmer Pineda Rios](https://usantotomas.edu.co/inicio), Universidad Santo Tomás (Colombia).
 - [Andrés Sebastián Rios](https://uis.edu.co/uis-bucaramanga-es/), UIS (Colombia).
+- [Alejandra Andrea Tapia Silva](https://www.mat.uc.cl/personas/perfil/alejandra.tapia), Pontificia Universidad Católica de Chile (Chile).
+- [Natalia da Silva](https://iesta.fcea.udelar.edu.uy/integrantes/natalia-da-silva/), Universidad de la República de Uruguay (Uruguay).
+- [Fidel Ernesto Castro](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1781198), Universidade Federal de Rio Grande do Norte (Brasil).
 - [Freddy Hernández Barajas](https://fhernanb.github.io/), Universidad Nacional de Colombia, sede Medellín (Colombia).
 
 <br/>
