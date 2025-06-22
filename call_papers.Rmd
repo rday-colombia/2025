@@ -1,40 +1,112 @@
 ---
-title: "Sometimiento de trabajos"
+title: ""
 ---
 
-Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaje de programación __R__. La forma de presentar los trabajos será por medio de comunicaciones o pósters.
+# 1. Call for <span style="color: red;">Papers</span>
 
-## Pasos
-El sometimiento de trabajos se realizará por medio de la herramienta CMT. A continuación los pasos para someter un trabajo.
+**R Day Colombia 2025** is a community-driven event dedicated to promoting the use of R for data analysis, statistical computing, reproducible research, and open-source software development across disciplines. We invite researchers, developers, educators, and practitioners to submit original contributions that explore the capabilities of the R ecosystem.
 
-1. Visitar [este enlace](https://cmt3.research.microsoft.com/User/Login){target="_blank"} para crear una cuenta en CMT. Si ya tiene una cuenta en CMT, continue con el paso siguiente.
-1. Abra su cuenta de CMT creada en el paso anterior.
-1. Visitar [este enlace](https://cmt3.research.microsoft.com/RDay2025){target="_blank"} para ingresar al sistema de sometimiento de trabajos del R Day en CMT.
-1. Dar clic en el botón __Create new submission__.
-1. Ingresar el título, el resumen de <span style="color: red;">1000 caracteres</span> y los autores. Toda la información se debe ingresar en <span style="color: red;">INGLÉS</span>.
-1. Elegir si es comunicación o póster.
-1. Oprimir el botón __Submit__ para someter su trabajo.
+### Scope of Contributions
 
-Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentran [en este enlace](fechas.html).
+We welcome submissions covering theoretical advances, software development, case studies, and applied research using R in fields such as:
 
-<br/>
+- Software tools and package development in R.
+- Statistical modeling and data analysis.
+- Data visualization and exploratory analysis.
+- Data wrangling and transformation.
+- Machine learning and artificial intelligence.
+- Bioinformatics and life sciences.
+- Natural language processing (NLP).
+- Big data analytics.
+- Dynamic reporting and interactive dashboards.
+- Teaching, learning, and pedagogy with R.
+- Applications in:
+    - Health sciences.
+    - Social sciences and humanities.
+    - Education.
+    - Engineering and related fields.
+    - Economics and finance.
+    - Agronomy.
+    - Natural and exact sciences.
 
-Con los trabajos aceptados se hará una selección para incluirlos en los Proceedings of Springer CCIS Book Series. Las dos modalidades para que los trabajos aceptados aparezcan en los Proceedings son:
+### Submission Guidelines
+- Language: English.
+- Length: 10 to 16 pages.
+- Format: PDF, anonymized for double-blind review.
+- Templates: Word or LaTeX (Springer CCIS format https://www.springer.com/br/computer-science/lncs/conference-proceedings-guidelines)
+- Submission platform: Microsoft CMT (link will be announced).
 
-- Como artículo corto (6 a 10 páginas).
-- Como artículo extendido (10 a 16 páginas).
+Each submission will be evaluated by **three independent reviewers** under a **double-blind review process**.
 
-<center>
-<img border="0" src="imagenes/Springer.png" width="140" height="210">
-</p>
-Figura ilustrativa de los Proceedings.
-</center>
+**Important Note**: The organizing committee has initiated the editorial process with Springer to publish selected papers in the **Communications in Computer and Information Science (CCIS)** series. However, inclusion in the proceedings is **subject to approval by Springer’s scientific committee**. Only accepted papers presented at the conference will be considered for inclusion.
 
-<br/>
-<br/>
+**Important Note**: The organizing committee is in the process of negotiating with Springer to publish a volume in the **Communications in Computer and Information Science (CCIS)** series.
 
-Para conocer todos los detalles de los Proceedings recomendamos visitar [este enlace](https://rday-colombia.github.io/2025/call_papers.html).
+If Springer approves the proceeding volume, **all accepted short papers will be included there** and **no local proceedings with ISBN will be produced**. If the proceedings **are not approved**, accepted papers will be published in a **local volume with ISBN**, edited by the organizing committee.
 
-<br/>
+To be eligible for proceedings publication:
 
-The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+- At least one author must register and attend the event to present the paper.
+- Unpresented papers will not be published.
+
+### Important Dates
+
+| Activity	| Date |
+|------|-----------|
+| Paper submission opens | 02 June 2025 | 
+| Paper submission deadline | 22 August 2025 |
+| Notification of acceptance | 05 September 2025 |
+| Final paper submission | 17 October 2025 |
+
+# 2. Call for <span style="color: red;">Short Papers</span>
+
+As part of **R Day Colombia 2025**, we invite submissions of **short papers** that showcase **ongoing work**, partial results, exploratory studies, or innovative ideas that contribute to the academic or professional use of R.
+
+This track is ideal for early-stage research, practical implementations, or conceptual discussions that are not yet ready for full paper publication but still offer significant value to the R community.
+
+### What We’re Looking For
+
+We encourage submissions that involve (but are not limited to):
+
+- Work-in-progress research using R.
+- Preliminary results with academic or practical relevance.
+- Innovative teaching experiences or educational tools in R.
+- Open-source R packages or prototypes in development.
+- Experimental workflows or applied case studies.
+- Data visualization, reproducible research, and interactive reporting.
+
+### Submission Guidelines
+
+- Language: English.
+- Length: 6 to 10 pages.
+- Format: PDF, anonymized for double-blind review.
+- Templates: Word or LaTeX using the official Springer CCIS template  (Springer CCIS format https://www.springer.com/br/computer-science/lncs/conference-proceedings-guidelines)
+- Submission platform: Microsoft CMT.
+
+Each short paper will be reviewed by **three members of the program committee** under a **double-blind review process**.
+
+All accepted papers will be presented at the conference and published in a **local proceedings volume with ISBN**.
+
+**Note on Publication**: A **selected group of high-quality short papers** may be invited to be included in the **Communications in Computer and Information Science (CCIS)** series by **Springer**, pending approval from Springer’s scientific board. This process is **under discussion** and is **not guaranteed** at this stage.
+
+**Important Note**: The organizing committee is in the process of negotiating with **Springer** to publish a volume in the **Communications in Computer and Information Science (CCIS)** series.
+
+If Springer approves the proceeding volume, **all accepted short papers will be included there** and **no local proceedings with ISBN will be produced**. If the proceedings are **not approved**, accepted papers will be published in a **local volume with ISBN**, edited by the organizing committee.
+
+To be eligible for publication:
+
+- At least one author must register as an author and present the paper at the conference.
+- If the work is not presented, it will not be included in the proceedings.
+
+### Important Dates
+
+| Activity	| Date |
+|------|-----------|
+| Paper submission opens | 02 June 2025 | 
+| Paper submission deadline | 22 August 2025 |
+| Notification of acceptance | 05 September 2025 |
+| Final paper submission | 17 October 2025 |
+
+Stay tuned for updates and additional details at the official website: [https://rday-colombia.github.io/2025](https://rday-colombia.github.io/2025).
+
+

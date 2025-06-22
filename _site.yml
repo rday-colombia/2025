@@ -29,6 +29,8 @@ navbar:
     #   href: respuestas.html
     - text: "Trabajos"
       href: trabajos.html
+    - text: "Call for papers"
+      href: call_papers.html
 #    - text: "Inscripciones"
 #      href: fin_inscripciones.html
     - text: "Comités"
