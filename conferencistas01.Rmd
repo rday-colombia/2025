@@ -4,11 +4,13 @@ title: "Conferencistas"
 
 Estamos muy felices de presentar a los conferencistas que nos acompañarán en el R Day.
 
+<br/>
+
 <center>
 <img src="imagenes/fotos_conferencistas/julia.png" width="300" height="300" alt="">  
 [Julia Silge](https://juliasilge.com/)  
 Científica de datos e ingeniera de software en Posit PBC.  
-<a href="https://x.com/"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://posit.co/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a> 
+<a href="https://fosstodon.org/@juliasilge"><img border="0" src="imagenes/mastodon.jpeg" width="25" height="25"></a> <a href="https://posit.co/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a> 
 <img border="0" src="imagenes/flag_eeuu.jpeg" width="25" height="25">
 </center>
 
