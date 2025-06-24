@@ -21,7 +21,7 @@ Científica de datos e ingeniera de software en Posit PBC.
 <img src="imagenes/fotos_conferencistas/mine.png" width="300" height="300" alt="">  
 [Mine Çetinkaya-Rundel](https://mine-cr.com/)  
 Profesora Universidad de Duke.  
-<a href="https://fosstodon.org/@juliasilge"><img border="0" src="imagenes/mastodon.jpeg" width="25" height="25"></a> <a href="https://stat.duke.edu/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a> 
+</a> <a href="https://stat.duke.edu/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a> 
 <img border="0" src="imagenes/flag_eeuu.jpeg" width="25" height="25">
 </center>
 
