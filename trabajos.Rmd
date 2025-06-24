@@ -24,15 +24,6 @@ Con los trabajos aceptados se hará una selección para incluirlos en los Procee
 - Como artículo corto (6 a 10 páginas).
 - Como artículo extendido (10 a 16 páginas).
 
-<center>
-<img border="0" src="imagenes/Springer.png" width="140" height="210">
-</p>
-Figura ilustrativa de los Proceedings.
-</center>
-
-<br/>
-<br/>
-
 Para conocer todos los detalles de los Proceedings recomendamos visitar [este enlace](https://rday-colombia.github.io/2025/call_papers.html).
 
 <br/>
