@@ -36,6 +36,7 @@ title: "Comités"
 - [Alejandra Andrea Tapia Silva](https://www.mat.uc.cl/personas/perfil/alejandra.tapia), Pontificia Universidad Católica de Chile (Chile).
 - [Natalia da Silva](https://iesta.fcea.udelar.edu.uy/integrantes/natalia-da-silva/), Universidad de la República de Uruguay (Uruguay).
 - [Fidel Ernesto Castro](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1781198), Universidade Federal de Rio Grande do Norte (Brasil).
+- [Nicolás Moreno Reyes](https://www.eafit.edu.co/nuestros-profesores/nicolas-alberto-moreno-reyes), Universidad EAFIT (Colombia).
 - [Freddy Hernández Barajas](https://fhernanb.github.io/), Universidad Nacional de Colombia, sede Medellín (Colombia).
 
 <br/>
