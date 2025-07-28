@@ -46,6 +46,8 @@ navbar:
     href: https://github.com/rday-colombia
   - icon: fa-instagram
     href: https://www.instagram.com/rdaycolombia/
+  - icon: fa-youtube
+    href: https://www.youtube.com/@RDay-Col
 output:
   html_document:
     css: my_css.css
