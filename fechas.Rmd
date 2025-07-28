@@ -8,11 +8,11 @@ title: "Fechas importantes"
 
 <br>
 
-| Actividad                | Fecha      |
-|--------------------------|------------|
+| Actividad                | Fecha        |
+|--------------------------|--------------|
 | Inicio de inscripciones  | Proximamente |
-| Fin de las inscripciones | 07/11/2025 |
-| R Day                    | 14/11/2025 |
+| Fin de las inscripciones | 07/11/2025   |
+| R Day                    | 14/11/2025   |
 
 <br>
 
