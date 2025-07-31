@@ -17,6 +17,12 @@ El sometimiento de trabajos se realizará por medio de la herramienta CMT. A con
 
 Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentran [en este enlace](fechas.html).
 
+Abajo un video ilustrativo de cómo someter un trabajo.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otSQNhyvemw?si=FHSdgOnnvIRsGIdP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 <br/>
 
 Con los trabajos aceptados se hará una selección para incluirlos en los Proceedings of Springer CCIS Book Series. Las dos modalidades para que los trabajos aceptados aparezcan en los Proceedings son:
