@@ -27,12 +27,12 @@ navbar:
       href: fechas.html
     # - text: "FAQ"
     #   href: respuestas.html
+    - text: "Inscripciones"
+      href: inscripciones.html
     - text: "Trabajos"
       href: trabajos.html
     - text: "Call for papers"
       href: call_papers.html
-    - text: "Inscripciones"
-      href: inscripciones.html
     - text: "Comités"
       href: comites.html
 #    - text: "Divulgación"
