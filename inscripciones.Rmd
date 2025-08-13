@@ -5,7 +5,7 @@ title: "Inscripciones"
 Para realizar la inscripción al evento se deben seguir dos pasos:
 
 
-1. Visitar [este enlace](https://www.udea.edu.co/wps/portal/udea/web/inicio/go?goid=portafolioext&q=48621&events=true).
+1. Visitar [este enlace](https://share.udea.edu.co/?q=po:c48621).
 
 2. Dar clic en el botón **Inscribirme** y seguir todos los pasos. Abajo una figura ilustrativa de la ubicación del botón de inscripción.
 
