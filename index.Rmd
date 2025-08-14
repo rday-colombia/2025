@@ -20,6 +20,13 @@ allowfullscreen></iframe>
 </center>
 
 <br/>
+
+¡Ya te puedes inscribir al R Day! Dá clic en el siguiente botón.
+
+<a href="inscripciones.html" target="_blank">
+    <img src="imagenes/inscripcion.gif" alt="GIF de inscripción" style="width:300px; height:auto;">
+</a>
+
 <br/>
 
 Para visitar nuestra página en inglés de clic en el siguiente enlace:
