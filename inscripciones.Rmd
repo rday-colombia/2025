@@ -13,6 +13,6 @@ Para realizar la inscripción al evento se deben seguir dos pasos:
 <img src="imagenes/guia_inscripcion.png" alt="Edif_Ext_UdeA" style="max-width: 35%;">
 </center>
 
-La inscripción tiene un valor de **$130.000** pesos colombianos.
+La inscripción tiene un valor de <span style="color: #277DF5;">$130.000</span> pesos colombianos.
 
 Cualquier inquietud no dude en escribirnos a rdaycolombia@gmail.com
