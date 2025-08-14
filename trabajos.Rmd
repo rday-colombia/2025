@@ -25,12 +25,12 @@ Abajo un video ilustrativo de cómo someter un trabajo.
 
 <br/>
 
-Con los trabajos aceptados se hará una selección para incluirlos en los Proceedings of Springer CCIS Book Series. Las dos modalidades para que los trabajos aceptados aparezcan en los Proceedings son:
+Con los trabajos aceptados se hará una selección para incluirlos en los "Proceedings of Springer CCIS Book Series". Las dos modalidades para que los trabajos aceptados aparezcan en los Proceedings son:
 
 - Como artículo corto (6 a 10 páginas).
 - Como artículo extendido (10 a 16 páginas).
 
-Para conocer todos los detalles de los Proceedings recomendamos visitar [este enlace](https://rday-colombia.github.io/2025/call_papers.html).
+Para conocer todos los detalles de los Proceedings recomendamos visitar [este enlace](call_papers.html) para la versión en español o [este enlace](llamado_trabajos.html) para la versión en inglés.
 
 <br/>
 

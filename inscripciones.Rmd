@@ -2,8 +2,7 @@
 title: "Inscripciones"
 ---
 
-Para realizar la inscripción al evento se deben seguir dos pasos:
-
+La inscripción tiene un valor de <span style="color: #277DF5;">$130.000</span> COP y los pasos para realizar la inscripción son:
 
 1. Visitar [este enlace](https://share.udea.edu.co/?q=po:c48621).
 
@@ -12,7 +11,5 @@ Para realizar la inscripción al evento se deben seguir dos pasos:
 <center>
 <img src="imagenes/guia_inscripcion.png" alt="Edif_Ext_UdeA" style="max-width: 35%;">
 </center>
-
-La inscripción tiene un valor de <span style="color: #277DF5;">$130.000</span> pesos colombianos.
 
 Cualquier inquietud no dude en escribirnos a rdaycolombia@gmail.com
