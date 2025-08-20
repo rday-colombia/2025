@@ -20,11 +20,16 @@ allowfullscreen></iframe>
 </center>
 
 <br/>
+<br/>
 
-¡Ya te puedes inscribir al R Day! Dá clic en el siguiente botón.
+¡Ya te puedes enviar tu trabajo y también inscribirte al R Day! Dá clic en el siguiente botón.
+
+<a href="trabajos.html" target="_blank">
+    <img src="imagenes/boton_trab.png" alt="Trabajos" style="width:300px; height:auto;">
+</a>
 
 <a href="inscripciones.html" target="_blank">
-    <img src="imagenes/inscripcion.gif" alt="GIF de inscripción" style="width:300px; height:auto;">
+    <img src="imagenes/boton_inscrip.png" alt="Inscripción" style="width:300px; height:auto;">
 </a>
 
 <br/>
