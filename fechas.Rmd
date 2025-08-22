@@ -6,8 +6,6 @@ title: "Fechas importantes"
 
 ## Para las inscripciones
 
-<br>
-
 | Actividad                | Fecha        |
 |--------------------------|--------------|
 | Inicio de inscripciones  | 13/08/2025   |
@@ -21,6 +19,6 @@ title: "Fechas importantes"
 | Actividad                           | Fecha       |
 |-------------------------------------|-------------|
 | Inicio del sometimiento de trabajos | 02/06/2025  |
-| Fin del sometimiento de trabajos    | 22/08/2025  |
+| Fin del sometimiento de trabajos    | ~~22/08/2025~~ 31/08/2025 |
 | Notificación de aceptación          | 05/09/2025  |
 | Envío de artículo completo          | 17/10/2025  |
