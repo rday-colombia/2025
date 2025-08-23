@@ -14,7 +14,11 @@ title: "R Day - Tercer encuentro nacional de usuarios de R"
 <br/>
 <br/>
 
-¡Ya te puedes enviar tu trabajo y también inscribirte al R Day! Dá clic en los siguientes botones.
+<span style="color: red;">¡El plazo para enviar tus trabajos se ha extendido!</span>, la fecha límite es 31 de agosto de 2025.
+
+<br/>
+
+Dá clic en los siguientes botones.
 
 <a href="trabajos.html" target="_blank">
     <img src="imagenes/boton_trab.png" alt="Trabajos" style="width:300px; height:auto;">
