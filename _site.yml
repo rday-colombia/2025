@@ -30,7 +30,7 @@ navbar:
     - text: "Inscripciones"
       href: inscripciones.html
     - text: "Trabajos"
-      href: trabajos.html
+      href: trabajos2.html
 #    - text: "Call for papers"
 #      href: call_papers.html
     - text: "Comités"
