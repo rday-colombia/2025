@@ -2,9 +2,9 @@
 title: "Inscripciones"
 ---
 
-En este momento estamos realizando **la preinscripción** (aún no la inscripción formal) para el **R Day**, a través de una de las universidades coorganizadoras: la **Universidad de Antioquia**.
+Ya puede hacer su inscripción para el **R Day**, a través del sistema **Universidad de Antioquia**.
 
-### Pasos para realizar la preinscripción
+### Pasos para realizar la inscripción
 
 1. Tenga a la mano un pdf de su documento de identidad (por ejemplo, cédula).
 2. Visite [este enlace](https://share.udea.edu.co/?q=po:c48621).
@@ -16,15 +16,10 @@ En la figura de abajo se muestra la ubicación del botón de inscripción:
 <img src="imagenes/guia_inscripcion.png" alt="Botón de inscripción en el sitio de la UdeA" style="max-width:35%;">
 </center>
 
-Una vez alcancemos un total de **100 preinscritos**, recibirá un correo electrónico notificándole que la inscripción formal ya está disponible.
-
 El valor de la inscripción al **R Day** es de <span style="color: #277DF5;">$130.000</span>.
 
-Si tiene cualquier inquietud, no dude en escribirnos a: [rdaycolombia@gmail.com](mailto:rdaycolombia@gmail.com).
+Si tiene cualquier inquietud puede escribirnos a: [rdaycolombia@gmail.com](mailto:rdaycolombia@gmail.com).
 
 <br/>
 <br/>
 
-<center>
-<img src="imagenes/pre-inscri.png" alt="pre-inscrip" style="max-width: 30%;">
-</center>
