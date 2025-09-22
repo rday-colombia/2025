@@ -53,19 +53,17 @@ El R Day se ha realizado dos veces en Medellín ([2019](https://rday-colombia.gi
      
 <h1> Apoyan </h1>
 
-<img src="imagenes/tu_logo_aqui_1.png" 
+<img src="imagenes/LOGO_fun_udea.jpg" 
      style="max-width: 50%;" />
      
 <br>
-     
-<img src="imagenes/tu_logo_aqui_2.png" 
-     style="max-width: 40%;" />
-     
-<br>
 
-<img src="imagenes/tu_logo_aqui_3.png" 
-     style="max-width: 40%;" />
+<br>
      
+<img src="imagenes/consulting-log.jpeg" 
+     style="max-width: 50%;" />
+     
+
 </center>
 
 <br>
