@@ -1,0 +1,23 @@
+---
+title: "FAQ"
+---
+Abajo se encuentran las respuestas a preguntas más frecuentes (frequently asked questions).
+
+## ¿Existen medidas y formato sugeridos para el póster?
+
+Se recomienda que el póster se imprima en tamaño A0 (84 cm x 110 cm).
+
+<center>
+<img src="imagenes/tamano_poster.png" alt="Itm-Fraternidad" style="max-width: 30%;">
+</center>
+
+El formato para el póster es libre.
+
+<br/>
+
+## ¿Dónde puedo encontrar las fotos del evento 📷 ?
+
+Para ver las fotos del evento visite [este enlace](https://www.flickr.com/groups/rday2025/). El grupo de flickr es libre así que usted también puede subir sus fotos del evento.
+
+<br/>
+
