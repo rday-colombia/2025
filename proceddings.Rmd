@@ -1,0 +1,8 @@
+---
+title: "Proceddings"
+---
+
+**Se extendió el plazo de entrega para el 31 de octubre**.
+
+El formato en el que se espera recibir el documento sigue los lineamientos de la plantilla del CCIS que se pueden encontrar en este [enlace](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) tanto plantilla word como LaTex.
+
