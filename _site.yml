@@ -12,9 +12,9 @@ navbar:
       - text: General
         icon: fa-calendar
         href: programa.html
-    #   - text: Comunicaciones
-    #     icon: fa-calendar-check-o
-    #     href: comunicaciones.html
+      - text: Comunicaciones
+        icon: fa-calendar-check-o
+        href: comunicaciones.html
     - text: "Lugar"
       menu:
       - text: Medellín
