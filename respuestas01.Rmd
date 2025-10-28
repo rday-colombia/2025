@@ -21,3 +21,6 @@ Para ver las fotos del evento visite [este enlace](https://www.flickr.com/groups
 
 <br/>
 
+## ¿Dónde puedo encontrar los tutoriales 💻?
+
+Para consultar el material de los tutoriales visite [este enlace](https://github.com/rday-colombia/tutoriales_Rday_2025).
