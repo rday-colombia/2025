@@ -1,0 +1,8 @@
+---
+title: "Programa general"
+---
+
+Abajo se encuentra el programa general del evento.
+
+<img src="imagenes/prog_general.png" alt="Programa">
+
