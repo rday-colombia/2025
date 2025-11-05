@@ -14,7 +14,10 @@ navbar:
         href: programa.html
       - text: Comunicaciones
         icon: fa-calendar-check-o
-        href: comunicaciones.html
+        href: prog_comunic.html
+      - text: Pósteres
+        icon: fa-calendar-check-o
+        href: prog_posteres.html
     - text: "Lugar"
       menu:
       - text: Medellín

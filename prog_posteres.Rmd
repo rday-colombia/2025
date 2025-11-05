@@ -1,0 +1,7 @@
+---
+title: "Programa de pósteres"
+---
+
+Abajo se encuentra el programa de los pósteres.
+
+<img src="imagenes/prog_poster.jpeg" alt="Programa">
