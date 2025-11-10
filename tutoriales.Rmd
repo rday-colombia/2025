@@ -6,7 +6,7 @@ title: "Tutoriales"
 |------|------------|----------|--------------------------|
 |1|Manejo de datos espaciales|David Arango Londoño|Profesor Asistente, Departamento de Ciencias Naturales y Matemáticas, Pontificia Universidad Javeriana|
 |2|App para análisis exploratorio: prototipo de software para toma de decisiones en producción animal|Luis Gabriel González con Luis Cohen, Juan Bonilla, Oscar Yepes, Manuela Liebano|Profesor Asociado, Departamento de Producción Animal, UNAL Medellín|
-|3|Creación de paquetes en R|David E. Rodríguez|Docente, Departamento de Finanzas ITM|
+|3|Creación de paquetes en R|Freddy Hernández|Docente, Facultad de Ciencias, UNAL Medellín|
 |4|Análisis de series de tiempo a través de los paquetes `actfts` y `citmre`|Sergio Andrés Sierra|Docente, Departamento de Finanzas ITM|
 |5|Ciencia de Datos sin Fronteras: R + AWS para Analizar en la Nube|Luis Eduardo Vahos Hernández|Docente, Facultad de Ingenierías ITM|
 |6|Análisis de Sentimientos en R|Nini Johana Marín Rodríguez|Docente, Facultad de Ingenierías UdeM|
