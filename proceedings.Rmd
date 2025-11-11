@@ -2,7 +2,16 @@
 title: "Proceedings"
 ---
 
-**Se extendió el plazo de entrega para el 31 de octubre de 2025**.
+The 3rd RDay Colombia 2025 is being set up in the CCIS series as:
 
-El formato en el que se espera recibir el documento sigue los lineamientos de la plantilla del CCIS que se pueden encontrar en este [enlace](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) tanto plantilla word como LaTex.
+- Post-proceedings event
+- Non Open-access
+- Biviana Suárez, Olga Usuga Manco, Carmen Patiño, Romario Conto, Freddy Hernández as volume editors
+- Camera-ready delivery set to 31/12/2025
+    
+The authors of accepted papers to use Springer templates when preparing the camera-ready version. They are available in Latex and MSword at:  [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
+
+<center>
+<img src="imagenes/Springer-CCIS.png" style="max-width: 40%;" alt="Proceedings">
+</center>
