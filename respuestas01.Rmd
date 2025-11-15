@@ -3,15 +3,9 @@ title: "FAQ"
 ---
 Abajo se encuentran las respuestas a preguntas más frecuentes (frequently asked questions).
 
-## ¿Existen medidas y formato sugeridos para el póster?
+## ¿Dónde puedo encontrar los certificados?
 
-Se recomienda que el póster se imprima en tamaño A0 (84 cm x 110 cm).
-
-<center>
-<img src="imagenes/tamano_poster.png" alt="Itm-Fraternidad" style="max-width: 30%;">
-</center>
-
-El formato para el póster es libre.
+Los certificados estarán disponibles en esta misma página de FAQ el día sábado 22 de noviembre de 2025. 
 
 <br/>
 
@@ -21,6 +15,24 @@ Para ver las fotos del evento visite [este enlace](https://www.flickr.com/groups
 
 <br/>
 
+## ¿Dónde puedo encontrar los videos de las conferencias 🎤?
+
+Para ver las conferencias visite [este enlace](https://rday-colombia.github.io/2025/conferencistas.html). Debajo de la foto de cada conferencista está el video YouTube con la grabación.
+
+<br/>
+
 ## ¿Dónde puedo encontrar los tutoriales 💻?
 
 Para consultar el material de los tutoriales visite [este enlace](https://github.com/rday-colombia/tutoriales_Rday_2025).
+
+<br/>
+
+## ¿Existen medidas y formato sugeridos para el póster?
+
+Se recomienda que el póster se imprima en tamaño A0 (84 cm x 110 cm).
+
+<center>
+<img src="imagenes/tamano_poster.png" alt="Itm-Fraternidad" style="max-width: 30%;">
+</center>
+
+El formato para el póster es libre.
