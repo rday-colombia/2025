@@ -27,6 +27,12 @@ Para consultar el material de los tutoriales visite [este enlace](https://github
 
 <br/>
 
+## ¿Dónde puedo encontrar los Proceedings del evento 📓?
+
+Cuando estén listo los proceedings las podrá encontrar [este enlace]().
+
+<br/>
+
 ## ¿Existen medidas y formato sugeridos para el póster?
 
 Se recomienda que el póster se imprima en tamaño A0 (84 cm x 110 cm).
