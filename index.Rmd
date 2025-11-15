@@ -9,10 +9,16 @@ title: "R Day - Tercer encuentro nacional de usuarios de R"
 <br/>
 <br/>
 
-Muchas gracias a todos los participantes del R Day 2025. Tuvimos 110 participantes de diferentes ciudades de Colombia, nuestra comunidad está creciendo.
+Muchas gracias a todos los participantes del R Day 2025. Tuvimos **110 participantes** de diferentes ciudades de Colombia, nuestra comunidad está creciendo.
 
 <img src="imagenes/foto_grupal_2025.jpeg" alt="Medellin">
 
+Recuerde visitar la página de [respuestas a preguntas frecuentes](https://rday-colombia.github.io/2025/respuestas01.html), allí encontrará información sobre los tutoriales, certificados, fotos y mucho más.
+
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
