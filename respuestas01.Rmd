@@ -17,7 +17,7 @@ Para ver las fotos del evento visite [este enlace](https://www.flickr.com/groups
 
 ## ¿Dónde puedo encontrar los videos de las conferencias 🎤?
 
-Para ver las conferencias visite [este enlace](https://rday-colombia.github.io/2025/conferencistas.html). Debajo de la foto de cada conferencista está el video YouTube con la grabación.
+Para ver las conferencias visite [este enlace](https://rday-colombia.github.io/2025/conferencistas01.html). Debajo de la foto de cada conferencista está el video YouTube con la grabación.
 
 <br/>
 
