@@ -2,7 +2,7 @@
 title: "Conferencistas"
 ---
 
-Estamos muy felices de presentar a los conferencistas que nos acompañarán **VIRTUALMENTE** en el R Day.
+Estamos muy felices presentar los conferencistas que nos acompañaron en el R Day, debajo de cada foto podrá encontrar el video de la conferencia.
 
 <br/>
 
