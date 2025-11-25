@@ -18,7 +18,7 @@ Científica de datos e ingeniera de software en Posit PBC.
 <br/>
 
 <center>
-<iframe width="280" height="157.5" src="https://www.youtube.com/embed/tosSAVyJtkU?si=0JOjYHajZ9fVB4pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tosSAVyJtkU?si=0JOjYHajZ9fVB4pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 <br/>
@@ -36,6 +36,13 @@ Profesor Universidad Técnica Federico Santa María.
 <br/>
 
 <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RFNyZ697PQw?si=-htKgcL8htc2BQ7C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<br/>
+<br/>
+
+<center>
 <img src="imagenes/fotos_conferencistas/andressa.png" width="300" height="300" alt="">  
 [Andressa Nunes Siroky](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1062376)  
 Profesora Universidade Federal Rio Grande do Norte.  
@@ -47,7 +54,7 @@ Profesora Universidade Federal Rio Grande do Norte.
 <br/>
 
 <center>
-<iframe width="280" height="157.5" src="https://www.youtube.com/embed/TPAVvx9Xrq0?si=6wGch__SJxBsVbk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TPAVvx9Xrq0?si=6wGch__SJxBsVbk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 <br/>
@@ -65,7 +72,7 @@ Profesor Flinders University.
 <br/>
 
 <center>
-<iframe width="280" height="157.5" src="https://www.youtube.com/embed/wtJe-wD5Lwo?si=eR7KDHgW2PPAsHGr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wtJe-wD5Lwo?si=eR7KDHgW2PPAsHGr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 <br/>
@@ -79,5 +86,8 @@ Profesor Universitat Politècnica de Catalunya.
 <img border="0" src="imagenes/flag_espana.png" width="25" height="25">
 </center>
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/anz089dMf70?si=9yL_910h6uLc2DyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 <br/>
