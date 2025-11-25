@@ -30,8 +30,8 @@ navbar:
       href: fechas.html
     - text: "FAQ"
       href: respuestas01.html
-    - text: "Inscripciones"
-      href: inscripciones.html
+# - text: "Inscripciones"
+#   href: inscripciones.html
     - text: "Proceedings"
       href: proceedings.html
 #    - text: "Trabajos"

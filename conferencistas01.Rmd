@@ -18,43 +18,7 @@ Científica de datos e ingeniera de software en Posit PBC.
 <br/>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tosSAVyJtkU?si=0JOjYHajZ9fVB4pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</center>
-
-<br/>
-<br/>
-
-<center>
-<img src="imagenes/fotos_conferencistas/gonzalo.png" width="300" height="300" alt="">  
-[Gonzalo Contador Revetria](https://matematica.usm.cl/contador-gonzalo/)  
-Profesor Universidad Técnica Federico Santa María.  
-<a href="https://x.com/"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://matematica.usm.cl/contador-gonzalo/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a> 
-<img border="0" src="imagenes/flag_chile.png" width="25" height="25">
-</center>
-
-<br/>
-<br/>
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RFNyZ697PQw?si=-htKgcL8htc2BQ7C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</center>
-
-<br/>
-<br/>
-
-<center>
-<img src="imagenes/fotos_conferencistas/andressa.png" width="300" height="300" alt="">  
-[Andressa Nunes Siroky](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1062376)  
-Profesora Universidade Federal Rio Grande do Norte.  
-<a href="https://x.com/"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://lea.estatistica.ccet.ufrn.br/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a> 
-<img border="0" src="imagenes/flag_brasil.jpeg" width="25" height="25">
-</center>
-
-<br/>
-<br/>
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TPAVvx9Xrq0?si=6wGch__SJxBsVbk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/tosSAVyJtkU?si=0JOjYHajZ9fVB4pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 <br/>
@@ -72,7 +36,43 @@ Profesor Flinders University.
 <br/>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wtJe-wD5Lwo?si=eR7KDHgW2PPAsHGr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/wtJe-wD5Lwo?si=eR7KDHgW2PPAsHGr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<br/>
+<br/>
+
+<center>
+<img src="imagenes/fotos_conferencistas/gonzalo.png" width="300" height="300" alt="">  
+[Gonzalo Contador Revetria](https://matematica.usm.cl/contador-gonzalo/)  
+Profesor Universidad Técnica Federico Santa María.  
+<a href="https://x.com/"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://matematica.usm.cl/contador-gonzalo/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a> 
+<img border="0" src="imagenes/flag_chile.png" width="25" height="25">
+</center>
+
+<br/>
+<br/>
+
+<center>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/RFNyZ697PQw?si=-htKgcL8htc2BQ7C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<br/>
+<br/>
+
+<center>
+<img src="imagenes/fotos_conferencistas/andressa.png" width="300" height="300" alt="">  
+[Andressa Nunes Siroky](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1062376)  
+Profesora Universidade Federal Rio Grande do Norte.  
+<a href="https://x.com/"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://lea.estatistica.ccet.ufrn.br/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a> 
+<img border="0" src="imagenes/flag_brasil.jpeg" width="25" height="25">
+</center>
+
+<br/>
+<br/>
+
+<center>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/TPAVvx9Xrq0?si=6wGch__SJxBsVbk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 <br/>
@@ -87,7 +87,7 @@ Profesor Universitat Politècnica de Catalunya.
 </center>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/anz089dMf70?si=9yL_910h6uLc2DyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/anz089dMf70?si=9yL_910h6uLc2DyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 <br/>
