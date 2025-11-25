@@ -18,6 +18,13 @@ Científica de datos e ingeniera de software en Posit PBC.
 <br/>
 
 <center>
+<iframe width="280" height="157.5" src="https://www.youtube.com/embed/tosSAVyJtkU?si=0JOjYHajZ9fVB4pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<br/>
+<br/>
+
+<center>
 <img src="imagenes/fotos_conferencistas/gonzalo.png" width="300" height="300" alt="">  
 [Gonzalo Contador Revetria](https://matematica.usm.cl/contador-gonzalo/)  
 Profesor Universidad Técnica Federico Santa María.  
