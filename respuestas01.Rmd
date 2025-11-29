@@ -5,7 +5,10 @@ Abajo se encuentran las respuestas a preguntas más frecuentes (frequently asked
 
 ## ¿Dónde puedo encontrar los certificados?
 
-Los certificados estarán disponibles en esta misma página de FAQ el día sábado 30 de noviembre de 2025. 
+Los certificados estarán disponibles en esta misma página de FAQ el día domingo 30 de noviembre de 2025. 
+
+- [Certificados de asistentes](https://github.com/rday-colombia/2025/tree/main/documentos/Certificados/Certificados%20Asistentes%20R%20Day%202025).
+- [Certificados de ponentes](https://github.com/rday-colombia/2025/tree/main/documentos/Certificados/Certificados%20Ponentes%20R%20Day%202025).
 
 <br/>
 
