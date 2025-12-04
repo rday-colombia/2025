@@ -15,7 +15,7 @@ To learn about Springer's code of conduct and see a more detailed guide on how t
 
 - [Code of conduct](https://github.com/rday-colombia/2025/blob/main/documentos/proceedings/Publisher's_Code_of_Conduct_for_Book_Authors.pdf).
 - [Instructions for authors](https://github.com/rday-colombia/2025/blob/main/documentos/proceedings/Springer_Instructions_for_Authors_of_Proceedings_CS.pdf).
-- [Licence to Publish – Proceedings Papers]().
+- [Licence to Publish – Proceedings Papers](https://github.com/rday-colombia/2025/blob/main/documentos/proceedings/SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland.docx).
 
 <center>
 <img src="imagenes/Springer-CCIS.png" style="max-width: 40%;" alt="Proceedings">
