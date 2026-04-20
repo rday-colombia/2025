@@ -1,0 +1,11 @@
+---
+title: "Proceedings"
+---
+
+To consult the Proceedings please visit the following url:
+
+[https://link.springer.com/book/10.1007/978-3-032-18455-9](https://link.springer.com/book/10.1007/978-3-032-18455-9).
+
+<center>
+<img src="imagenes/the_proceedings.png" style="max-width: 40%;" alt="Proceedings">
+</center>
